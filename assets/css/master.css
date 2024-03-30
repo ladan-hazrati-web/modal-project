@@ -21,7 +21,7 @@ body {
   width: 100%;
   height: calc(100vh - 60px);
   position: relative;
-}
+} 
 .container > button {
   position: absolute;
   top: 50%;
@@ -51,7 +51,7 @@ body > section {
   transition: 0.4s;
 }
 body > section > div {
-  width: 480px;
+  width: 300px;
   background-color: white;
   position: absolute;
   top: 30%;
